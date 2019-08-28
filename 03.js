@@ -21,4 +21,9 @@
 // git config-- global user.email "邮箱"//第一次用
 // git remote add origin 地址  链接远程仓库
 // git push -u origin master 第一次提交
-// git push
+// git push  推送
+// git  pull  拉取 
+  
+
+
+// 你用什么管理工具管理代码  git  svn
